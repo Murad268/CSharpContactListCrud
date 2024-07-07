@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TechEvo Computers\\Desktop\\CSharpContactListCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C892B7-8690-49B5-9066-90D3A1A024EC}|CSharpContactListCrud\\CSharpContactListCrud.csproj|c:\\users\\techevo computers\\desktop\\csharpcontactlistcrud\\csharpcontactlistcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C892B7-8690-49B5-9066-90D3A1A024EC}|CSharpContactListCrud\\CSharpContactListCrud.csproj|solutionrelative:csharpcontactlistcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C892B7-8690-49B5-9066-90D3A1A024EC}|CSharpContactListCrud\\CSharpContactListCrud.csproj|c:\\users\\techevo computers\\desktop\\csharpcontactlistcrud\\csharpcontactlistcrud\\controllers\\contactlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C892B7-8690-49B5-9066-90D3A1A024EC}|CSharpContactListCrud\\CSharpContactListCrud.csproj|solutionrelative:csharpcontactlistcrud\\controllers\\contactlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C892B7-8690-49B5-9066-90D3A1A024EC}|CSharpContactListCrud\\CSharpContactListCrud.csproj|c:\\users\\techevo computers\\desktop\\csharpcontactlistcrud\\csharpcontactlistcrud\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C892B7-8690-49B5-9066-90D3A1A024EC}|CSharpContactListCrud\\CSharpContactListCrud.csproj|solutionrelative:csharpcontactlistcrud\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\TechEvo Computers\\Desktop\\CSharpContactListCrud\\CSharpContactListCrud\\models\\Contact.cs",
+              "RelativeDocumentMoniker": "CSharpContactListCrud\\models\\Contact.cs",
+              "ToolTip": "C:\\Users\\TechEvo Computers\\Desktop\\CSharpContactListCrud\\CSharpContactListCrud\\models\\Contact.cs",
+              "RelativeToolTip": "CSharpContactListCrud\\models\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T10:13:49.016Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactListController.cs",
+              "DocumentMoniker": "C:\\Users\\TechEvo Computers\\Desktop\\CSharpContactListCrud\\CSharpContactListCrud\\controllers\\ContactListController.cs",
+              "RelativeDocumentMoniker": "CSharpContactListCrud\\controllers\\ContactListController.cs",
+              "ToolTip": "C:\\Users\\TechEvo Computers\\Desktop\\CSharpContactListCrud\\CSharpContactListCrud\\controllers\\ContactListController.cs",
+              "RelativeToolTip": "CSharpContactListCrud\\controllers\\ContactListController.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAwwH0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T09:59:21.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TechEvo Computers\\Desktop\\CSharpContactListCrud\\CSharpContactListCrud\\Program.cs",
+              "RelativeDocumentMoniker": "CSharpContactListCrud\\Program.cs",
+              "ToolTip": "C:\\Users\\TechEvo Computers\\Desktop\\CSharpContactListCrud\\CSharpContactListCrud\\Program.cs",
+              "RelativeToolTip": "CSharpContactListCrud\\Program.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAwwHIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T09:57:10.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

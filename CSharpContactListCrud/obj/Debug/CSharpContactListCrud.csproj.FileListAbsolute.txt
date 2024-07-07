@@ -1,0 +1,7 @@
+C:\Users\TechEvo Computers\Desktop\CSharpContactListCrud\CSharpContactListCrud\obj\Debug\CSharpContactListCrud.csproj.AssemblyReference.cache
+C:\Users\TechEvo Computers\Desktop\CSharpContactListCrud\CSharpContactListCrud\obj\Debug\CSharpContactListCrud.csproj.CoreCompileInputs.cache
+C:\Users\TechEvo Computers\Desktop\CSharpContactListCrud\CSharpContactListCrud\bin\Debug\CSharpContactListCrud.exe.config
+C:\Users\TechEvo Computers\Desktop\CSharpContactListCrud\CSharpContactListCrud\bin\Debug\CSharpContactListCrud.exe
+C:\Users\TechEvo Computers\Desktop\CSharpContactListCrud\CSharpContactListCrud\bin\Debug\CSharpContactListCrud.pdb
+C:\Users\TechEvo Computers\Desktop\CSharpContactListCrud\CSharpContactListCrud\obj\Debug\CSharpContactListCrud.exe
+C:\Users\TechEvo Computers\Desktop\CSharpContactListCrud\CSharpContactListCrud\obj\Debug\CSharpContactListCrud.pdb
